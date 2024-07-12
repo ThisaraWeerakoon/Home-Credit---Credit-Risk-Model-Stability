@@ -14,7 +14,8 @@ Conference
 -->   
 </div>
 
-![1_d6pG5pm8BKBe5uz16sp4zg-ezgif com-webp-to-jpg-converter](https://github.com/ThisaraWeerakoon/Age-Classification/assets/83450623/e02f049b-806e-41a5-9871-bdab48dfefd2)
+![1686397468012](https://github.com/user-attachments/assets/2af08e85-a26f-4994-9e6a-ee0d20bba4e2)
+
 
 You can have a look into our  paper <a href= "https://drive.google.com/file/d/12xjQ5EoS9Szn4rrqDtnvbSFjNoXqeRMI/view?usp=sharing">Credit Risk Prediction with CatBoost and LGBM</a> (not published just for having an exposure for writing a research paper) for a comprehensive explanation about our approach
  

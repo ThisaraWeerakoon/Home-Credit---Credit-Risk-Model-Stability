@@ -19,7 +19,7 @@ Conference
 
 You can have a look into our  paper <a href= "https://drive.google.com/file/d/12xjQ5EoS9Szn4rrqDtnvbSFjNoXqeRMI/view?usp=sharing">Credit Risk Prediction with CatBoost and LGBM</a> (not published just for having an exposure for writing a research paper) for a comprehensive explanation about our approach
 
-Inspired by the kaggle competition  <a href= "[https://drive.google.com/file/d/12xjQ5EoS9Szn4rrqDtnvbSFjNoXqeRMI/view?usp=sharing](https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability)">Home Credit - Credit Risk Model Stability</a>
+Inspired by the kaggle competition  <a href= "https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability">Home Credit - Credit Risk Model Stability</a>
  
 ## Description   
 The objective of this project is to develop a model that predicts the likelihood of clients defaulting on their loans, with a strong emphasis on maintaining feature stability over time. This competition aims to provide consumer finance providers with a more reliable and enduring method to evaluate a potential client's risk of default.

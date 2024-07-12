@@ -17,10 +17,10 @@ Conference
 
 ![1_d6pG5pm8BKBe5uz16sp4zg-ezgif com-webp-to-jpg-converter](https://github.com/ThisaraWeerakoon/Age-Classification/assets/83450623/e02f049b-806e-41a5-9871-bdab48dfefd2)
 
-You can have a look into my <a href= "https://medium.com/@thisara.weerakoon2001/age-classification-using-transfer-learning-vgg16-d2f240f67d26">medium post</a> for a comprehensive explanation about the code and theory behind the project
+You can have a look into our  paper <a href= "https://drive.google.com/file/d/12xjQ5EoS9Szn4rrqDtnvbSFjNoXqeRMI/view?usp=sharing">Credit Risk Prediction with CatBoost and LGBM</a> (not published just for having an exposure for writing a research paper) for a comprehensive explanation about our approach
  
 ## Description   
-This project explores the use of deep learning to predict a person's age from facial images. Leveraging the VGG16 model, a convolutional neural network pre-trained on the ImageNet dataset, we apply transfer learning to classify age groups.
+The objective of this project is to develop a model that predicts the likelihood of clients defaulting on their loans, with a strong emphasis on maintaining feature stability over time. This competition aims to provide consumer finance providers with a more reliable and enduring method to evaluate a potential client's risk of default.
 
 - **Motivation:** To gain deeper insights into computer vision and its applications, and to contribute to advancements in the field.
 - **Why:** Human age estimation based on facial features demonstrates the remarkable capability of our brains.Translating this human skill to machines using deep learning techniques can unlock numerous applications including 

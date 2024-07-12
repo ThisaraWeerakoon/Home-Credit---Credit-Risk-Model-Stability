@@ -22,17 +22,12 @@ You can have a look into our  paper <a href= "https://drive.google.com/file/d/12
 ## Description   
 The objective of this project is to develop a model that predicts the likelihood of clients defaulting on their loans, with a strong emphasis on maintaining feature stability over time. This competition aims to provide consumer finance providers with a more reliable and enduring method to evaluate a potential client's risk of default.
 
-- **Motivation:** To gain deeper insights into computer vision and its applications, and to contribute to advancements in the field.
-- **Why:** Human age estimation based on facial features demonstrates the remarkable capability of our brains.Translating this human skill to machines using deep learning techniques can unlock numerous applications including 
-  - **Personalized Marketing:** Tailoring advertisements based on the predicted age group.
-  - **Enhanced Security:** Improved surveillance by recognizing age-specific behaviors.
-  - **Medical Applications:** Age estimation for planning treatments and predicting health trends.
-
-- **Problem Solved:** Tackling complex computer vision task of classify persons age from his/her facial image.Applying transfer learning to tackle above problem.
+- **Motivation:** The goal is to create a stable and reliable model for predicting loan defaults, focusing on individuals with little or no credit history.
+- **Why:** Many potential borrowers are unfairly denied loans due to a lack of traditional credit history, limiting their financial opportunities.
+- **Problem Solved:** We aim to develop a model that maintains performance stability over time, reducing the need for frequent updates and ensuring consistent loan risk assessment.
 - **What We Learned:**
-  - **1:** How to preprocess image data
-  - **2:** How to build a convolutional neural network from scratch (it not worked for this task by the way :) )
-  - **3:** How to train a pre-trained model using transfer learning techniques.
+  - **1:** Data preprocessing specially this project gave the experience of preparing our train dataset by combining different files in different formats which was really challenging.
+  - **2:** the importance of balancing model performance and stability both
 
  ## Methodology
 
